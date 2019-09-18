@@ -1,0 +1,15 @@
+{
+  "name": "wwy2121/develop",
+  "description": "测试描述",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "wwy2121",
+      "email": "wwy2121@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4":{"Test1\\":"test1/src/application"}
+  },
+  "require": {}
+}
