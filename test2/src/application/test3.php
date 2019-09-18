@@ -6,7 +6,7 @@
  * Time: 11:49
  */
 
-namespace Test3;
+namespace Test2;
 
 class Test3 {
     public function info() {
