@@ -10,6 +10,6 @@ namespace Test3;
 
 class Test3 {
     public function info() {
-        echo "test2 info";
+        echo "test3 info";
     }
 }
