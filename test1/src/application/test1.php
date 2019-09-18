@@ -8,7 +8,7 @@
 
 namespace Test1;
 
-class Cache {
+class Test1 {
 
     public function add(){
         echo time();
