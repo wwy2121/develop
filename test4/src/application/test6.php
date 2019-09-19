@@ -10,12 +10,7 @@ namespace Test4;
 
 class Test6 {
 
-    public function add(){
+    public function del(){
         echo "echo 6".time();
     }
-
-    public function info(){
-        phpinfo();
-    }
-
 }
