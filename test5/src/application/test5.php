@@ -11,7 +11,7 @@ namespace Test5;
 class Test5 {
 
     public function add(){
-        echo time();
+        echo "echo 5".time();
     }
 
     public function info(){
