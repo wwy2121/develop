@@ -12,7 +12,7 @@
     "psr-4":{
       "Test1\\":"test1/src/application",
       "Test2\\":"test2/src/application",
-      "Test3\\":"test3/src/application",
+      "Test4\\":"test4/src/application",
       "Test5\\":"test5/src/application"
     }
   },
