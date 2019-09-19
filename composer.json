@@ -14,7 +14,8 @@
       "Test2\\":"test2/src/application",
       "Test4\\":"test4/src/application",
       "Test5\\":"test5/src/application",
-      "Test6\\":"test6/src/application"
+      "Test6\\":"test6/src/application",
+      "Test7\\":"test7/src"
     }
   },
   "require": {}
