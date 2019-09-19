@@ -6,7 +6,7 @@
  * Time: 11:33
  */
 
-namespace Test6;
+namespace Test4;
 
 class Test6 {
 
