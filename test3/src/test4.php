@@ -6,9 +6,9 @@
  * Time: 11:00
  */
 
-namespace test4;
+namespace Test4;
 
-class test4 {
+class Test4 {
 
     public function test() {
         echo "test4 info";
