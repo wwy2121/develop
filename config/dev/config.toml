@@ -1,0 +1,14 @@
+env="dev"
+[server]
+    addr = 1
+    address = "test address"
+    readTimeout = 2000
+    writeTimeout = 2000
+    port = ":5050"
+[log]
+    level=0
+    development=false
+    disablestacktrace=false
+    outputPaths=["/tmp/insert.log"]
+[secret]
+    web="fsdfsdrfdfsdfsd"
